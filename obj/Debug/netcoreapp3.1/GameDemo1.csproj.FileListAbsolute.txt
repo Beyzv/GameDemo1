@@ -1,0 +1,13 @@
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\bin\Debug\netcoreapp3.1\GameDemo1.exe
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\bin\Debug\netcoreapp3.1\GameDemo1.deps.json
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\bin\Debug\netcoreapp3.1\GameDemo1.runtimeconfig.json
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\bin\Debug\netcoreapp3.1\GameDemo1.runtimeconfig.dev.json
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\bin\Debug\netcoreapp3.1\GameDemo1.dll
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\bin\Debug\netcoreapp3.1\GameDemo1.pdb
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\obj\Debug\netcoreapp3.1\GameDemo1.csprojAssemblyReference.cache
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\obj\Debug\netcoreapp3.1\GameDemo1.AssemblyInfoInputs.cache
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\obj\Debug\netcoreapp3.1\GameDemo1.AssemblyInfo.cs
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\obj\Debug\netcoreapp3.1\GameDemo1.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\obj\Debug\netcoreapp3.1\GameDemo1.dll
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\obj\Debug\netcoreapp3.1\GameDemo1.pdb
+C:\Users\omerfaruk\source\repos\GameDemo\GameDemo1\obj\Debug\netcoreapp3.1\GameDemo1.genruntimeconfig.cache
